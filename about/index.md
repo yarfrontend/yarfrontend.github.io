@@ -9,6 +9,14 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+Цель
+----
+Создать в Ярославле площадку для регулярного неформального общения разработчиков, объединенных “по технологическому признаку”, занимающихся разработкой на веб-техноголиях (JavaScript, HTML, CSS, и т.д.)
+
+Формат
+------
+1-2 встречи в месяц, каждая из которых состоит из 2-3 докладов с последующим неформальным общением как на темы этих докладов, так и на темы связанные с общей профессиональной деятельностью участников. Доклады на 30-45 минут.
+
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
 ## So Simple Theme is all about:

@@ -1,16 +1,10 @@
 # Site navigation links
 
-- title: About
+- title: О проекте
   url: /about/
 
-- title: Articles
+- title: Встречи
   url: /articles/
 
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Регистрация
+  url: /register/

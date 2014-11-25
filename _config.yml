@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Yaroslavl Frontend Meetup
+locale: ru_RU
+description: Место встречи Ярославских frontend-разработчиков
 logo: site-logo.png
 search: true
 url: 
@@ -32,14 +32,14 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Yaroslavl Frontend Meetup
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: oleg@elifantiev.ru
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  twitter: oelifantiev
+  facebook: groups/747177005310144/
+  github:
+  stackexchange: 
   linkedin: #username
   instagram: #username
   flickr: #username
