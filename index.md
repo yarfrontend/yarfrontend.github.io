@@ -1,18 +1,20 @@
 ---
 layout: page
-title: XX Декабря 2014 г.
+title: 10 Декабря 2014 г.
 excerpt: 
 ---
 
 Доклады
 -------
 
-1. Tessel - микроконтроллер, программируемый на JavaScript. Фронтэнд технологии в реальных устройствах. Олег Елифантьев, Тензор.
-1. Модульность. CommonJS, AMD, ES6 modules. Ершов Константин, Тензор.
+<ul class="post-list">
+{% for post in site.categories.nearest %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></article></li>
+{% endfor %}
+</ul>
 
 Место
 -----
-
 
 
 Время
