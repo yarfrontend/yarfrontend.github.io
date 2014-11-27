@@ -2,6 +2,7 @@
 layout: page
 title: Декабрь 2014
 excerpt: 
+comments: true
 ---
 
 Доклады
