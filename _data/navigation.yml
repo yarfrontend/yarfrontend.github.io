@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: 10/12/2014
+- title: 12/2014
   url: /
 
 - title: О проекте
   url: /about/
 
-- title: Встречи
-  url: /articles/
+#- title: Встречи
+#  url: /articles/
 
 - title: Послушать
   url: /register/
