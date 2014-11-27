@@ -1,0 +1,36 @@
+#logo {
+  width: 158px;
+  height: 158px;
+  margin: 0 auto;
+  position: relative;
+
+  .l1, .l2, .l3 {
+    width: 158px;
+    height: 64px;
+    border-radius: 32px;
+    background: #FADF1D;
+  }
+
+  .l3 {
+    transform: rotate(-45deg) translate(38px, -123px);
+    transform-origin: right top;
+  }
+
+  .l2 {
+    transform: rotate(-90deg) translate(64px, -64px);
+    transform-origin: right top;
+  }
+
+  &:after {
+    content: "JS";
+    position: absolute;
+    display: block;
+    right: 12px;
+    bottom: 0;
+    font-size: 40px;
+  }
+}
+
+.logo-rel {
+  position: relative;
+}	
