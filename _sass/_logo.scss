@@ -12,12 +12,28 @@
   }
 
   .l3 {
+    -webkit-transform: rotate(-45deg) translate(38px, -123px);
+    -moz-transform: rotate(-45deg) translate(38px, -123px);
+    -ms-transform: rotate(-45deg) translate(38px, -123px);
+    -o-transform: rotate(-45deg) translate(38px, -123px);
     transform: rotate(-45deg) translate(38px, -123px);
+    -webkit-transform-origin: right top;
+    -moz-transform-origin: right top;
+    -ms-transform-origin: right top;
+    -o-transform-origin: right top;
     transform-origin: right top;
   }
 
   .l2 {
+    -webkit-transform: rotate(-90deg) translate(64px, -64px);
+    -moz-transform: rotate(-90deg) translate(64px, -64px);
+    -ms-transform: rotate(-90deg) translate(64px, -64px);
+    -o-transform: rotate(-90deg) translate(64px, -64px);
     transform: rotate(-90deg) translate(64px, -64px);
+    -webkit-transform-origin: right top;
+    -moz-transform-origin: right top;
+    -ms-transform-origin: right top;
+    -o-transform-origin: right top;
     transform-origin: right top;
   }
 
