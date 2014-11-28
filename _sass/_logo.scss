@@ -3,6 +3,8 @@
   height: 158px;
   margin: 0 auto;
   position: relative;
+  font-family: $logo-font;
+  font-weight: normal;
 
   .l1, .l2, .l3 {
     width: 158px;
@@ -39,6 +41,7 @@
 
   &:after {
     content: "JS";
+
     position: absolute;
     display: block;
     right: 12px;
