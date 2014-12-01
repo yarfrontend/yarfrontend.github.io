@@ -17,10 +17,16 @@ comments: true
 Когда
 -----
 
+Примерная дата мероприятия - вторая неделя декабря. Пожалуйста, [зарегистрируйтесь][register], чтобы мы могли оценить
+количество участников.
 
 Где
 ---
 
+Встреча пройдет в новом офисе компании [Тензор][tensor] по адресу: г. Ярославль, ул. Угличская, д. 36.
+Вход - угол здания по ул. Чехова. Маршрут от остановки общественного транспорта указан на карте.
+
+<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=OaSCkjqQ9MoOIwGeLlFWJiM9GD6Ae8KK&width=600&height=450"></script>
 
 <!--
 <ul class="post-list">
@@ -29,3 +35,6 @@ comments: true
 {% endfor %}
 </ul>
 -->
+
+[register]: /register/
+[tensor]: http://tensor.ru/
