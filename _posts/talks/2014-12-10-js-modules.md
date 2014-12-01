@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Модульность. CommonJS, AMD, ES6.
+title: "JavaScript модули &quot;из прошлого в будущее&quot;"
 modified:
 categories: talks nearest
 author: ershov_konst
 excerpt:
-tags: []
+tags: [javascript, es6, commonjs, amd]
 image:
   feature:
 date: 2014-12-10T19:00:00+04:00
@@ -13,6 +13,7 @@ comments: true
 share: true
 ---
 
-Модульность в JavaScript.
+Поговорим о необходимости организации js кода в модули.
+Рассмотрим существующие методы организации модулей и способы оптимизации загрузки js в браузере.
 
-AMD, CommonJS, ES6. RequireJS.
+Заглянем в ближайшее будущее, подробно рассмотрев модульную систему, которую нам готовит новый стандарт ECMAScript 6.
