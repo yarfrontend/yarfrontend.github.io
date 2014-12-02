@@ -29,7 +29,7 @@ comments: true
 
 Контактные телефоны: +7 905 136-22-39 Ирина, +7 920 1000-282 Олег
 
-<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=OaSCkjqQ9MoOIwGeLlFWJiM9GD6Ae8KK&width=600&height=450"></script>
+<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=OaSCkjqQ9MoOIwGeLlFWJiM9GD6Ae8KK&height=450"></script>
 
 <!--
 <ul class="post-list">
