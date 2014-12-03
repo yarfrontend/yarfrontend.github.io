@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript-модули &quot;из прошлого в будущее&quot;"
+title: "JavaScript-модули &#8222;из прошлого в будущее&#8220;"
 modified:
 categories: talks nearest
 author: ershov_konst
