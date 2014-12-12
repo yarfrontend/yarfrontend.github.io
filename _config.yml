@@ -37,9 +37,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Yaroslavl Frontend Meetup
   avatar: bio-photo.jpg
-  email: oleg@elifantiev.ru
+  email: mail@yarfrontend.ru
   disqus-shortname: yfrontend
-  twitter: oelifantiev
+  twitter: yarfrontend
   facebook: groups/747177005310144/
   github:
   stackexchange: 
