@@ -295,7 +295,7 @@ span + .entry-title {
 }
 .post-list {
 	li > a {
-		border-bottom-width: 0;
+		// border-bottom-width: 0;
 	}
 }
 // Disqus Comments
@@ -328,8 +328,8 @@ span + .entry-title {
 	list-style-type: none;
 	li {
 		padding: 8px 0;
-		border-bottom: 1px solid lighten($black,80);
-		border-bottom: 1px solid rgba($black,.10);
+		//border-bottom: 1px solid lighten($black,80);
+		//border-bottom: 1px solid rgba($black,.10);
 		@include font-size(18,no);
 		@include clearfix;
 	}

@@ -9,8 +9,11 @@ comments: true
 -------
 
 <ul class="post-list">
-{% for post in site.categories.nearest %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></article></li>
+{% for post in site.categories.nearest %}
+  {% if post.author %}
+    {% assign author = site.data.authors[post.author] %}
+  {% endif %}
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}.{% if author %} {{ author.name }}{% endif %}</a></li>
 {% endfor %}
 </ul>
 
