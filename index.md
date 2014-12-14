@@ -13,7 +13,7 @@ comments: true
   {% if post.author %}
     {% assign author = site.data.authors[post.author] %}
   {% endif %}
-  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}.{% if author %} {{ author.name }}{% endif %}</a></li>
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}.{% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}</a></li>
 {% endfor %}
 </ul>
 
