@@ -506,7 +506,10 @@ span + .entry-title {
 	  margin-left: 2px;
 	}
 	h2, p, .post-list {
-	  margin-left: 160px;
+	  margin-left: 0;
+	  @include media($large) {
+		margin-left: 160px;
+	  }
 	}
   }
 }
