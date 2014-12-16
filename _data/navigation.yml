@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: 10/12/2014
+- title: 01/2015
   url: /
 
 - title: О проекте
@@ -12,8 +12,8 @@
 #- title: Встречи
 #  url: /articles/
 
-- title: Послушать
-  url: /register/
+#- title: Послушать
+#  url: /register/
 
 - title: Выступить
   url: /speakers/
