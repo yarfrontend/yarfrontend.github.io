@@ -13,6 +13,7 @@ date: 2014-12-10T19:00:00+04:00
 comments: true
 share: true
 video: 6r62UorqXK4
+slides: 42845282
 ---
 
 Поговорим о необходимости организации js кода в модули.
