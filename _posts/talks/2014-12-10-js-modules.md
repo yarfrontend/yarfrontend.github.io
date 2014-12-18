@@ -6,6 +6,7 @@ categories: talks
 author: ershov_konst
 excerpt:
 tags: [javascript, es6, commonjs, amd]
+talk: meetup1
 image:
   feature:
 date: 2014-12-10T19:00:00+04:00
