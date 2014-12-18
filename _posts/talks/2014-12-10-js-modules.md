@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: talk
 title: "JavaScript-модули &#8222;из прошлого в будущее&#8220;"
 modified:
-categories: talks nearest
+categories: talks
 author: ershov_konst
 excerpt:
 tags: [javascript, es6, commonjs, amd]
@@ -11,6 +11,7 @@ image:
 date: 2014-12-10T19:00:00+04:00
 comments: true
 share: true
+video: 6r62UorqXK4
 ---
 
 Поговорим о необходимости организации js кода в модули.
