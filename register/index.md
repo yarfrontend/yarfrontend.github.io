@@ -14,8 +14,10 @@ comments: true
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://yarfrontend.ru/register/thank-you.html' />
   <!-- all your input fields here.... -->
-  <label for='name'>Ваше имя</label>
+  <label for='name'>Имя</label>
   <input type='text' name='name' id='name' required=""/>
+  <label for='surname'>Фамилия</label>
+  <input type='text' name='surname' id='surname' required=""/>
   <label for='email'>E-mail для связи</label>
   <input type='email' name='email' id='email' required="" />
   <label for='work'>Место работы/учебы</label>

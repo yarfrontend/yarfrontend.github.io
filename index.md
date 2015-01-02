@@ -1,35 +1,33 @@
 ---
 layout: page
-title: январь 2015
+title: 28 января 2015
 excerpt: 
 comments: true
 ---
 
-Второй meetup пройдет в конце января 2015 г. Следите за анонсами!
-
-Приглашаем докладчиков! Если вы хотите выступить, пожалуйста, [расскажите нам о своем докладе][speakers].
-
-<!--
 Доклады
 -------
 
 <ul class="post-list">
-{% for post in site.categories.nearest %}
+{% for post in site.categories.talks %}
   {% if post.author %}
     {% assign author = site.data.authors[post.author] %}
   {% endif %}
+  {% if post.announce %}
   <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}.{% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
+
+Приглашаем докладчиков! Если вы хотите выступить, пожалуйста, [расскажите нам о своем докладе][speakers].
 
 Когда
 -----
 
-Первая встреча пройдет 10 декабря 2014 в 19:00. Пожалуйста, [зарегистрируйтесь][register], чтобы мы могли оценить
+Вторая встреча пройдет 28 января 2015 в 19:00. Пожалуйста, [зарегистрируйтесь][register], чтобы мы могли оценить
 количество участников.
 
 Участие &mdash; бесплатное.
--->
 
 Где
 ---
