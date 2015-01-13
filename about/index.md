@@ -18,3 +18,5 @@ comments: true
 с последующим неформальным общением как на темы этих докладов,
 так и на темы связанные с общей профессиональной деятельностью участников.
 Доклады на 30-45 минут. Участие &mdash; бесплатное.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/qdtv0nMjy2w" frameborder="0" allowfullscreen></iframe>
