@@ -261,9 +261,19 @@ span + .entry-title {
 		@include media($large) {
 			display: block;
 			padding: 8px 0;
-			border-bottom: 1px solid lighten($black,80);
-			border-bottom: 1px solid rgba($black,.10);
 		}
+	}
+  	& > span:not(.author) {
+	  @include media($large) {
+		border-bottom: 1px solid lighten($black,80);
+		border-bottom: 1px solid rgba($black,.10);
+	  }
+	}
+  	& > span.author+span {
+	  @include media($large) {
+		border-top: 1px solid lighten($black, 80);
+		border-top: 1px solid rgba($black, .10);
+	  }
 	}
 }
 .bio-photo {
