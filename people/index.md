@@ -25,7 +25,7 @@ comments: true
     <p>{{ author.bio }}</p>
     <ul class="post-list">
     {% for post in site.categories.talks %}
-      {% if post.author == authorId %}
+      {% if post.author contains authorId %}
       <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}.</a></li> 
       {% endif %}  
     {% endfor %}
