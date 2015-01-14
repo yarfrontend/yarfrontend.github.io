@@ -20,6 +20,11 @@ comments: true
         <a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-twitter-square"></i> {{ author.twitter }}</a>
       </span>
       {% endif %}
+      {% if author.github %}
+      <span>
+        <a href="http://github.com/{{ author.github }}" title="{{ author.github }} on Github" target="_blank"><i class="fa fa-github-square"></i> {{ author.github }}</a>
+      </span>
+      {% endif %}
     </div>
     <h2 data-company="{{ author.company }}">{{ author.name }}</h2>
     <p>{{ author.bio }}</p>

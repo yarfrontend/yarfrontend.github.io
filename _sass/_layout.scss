@@ -507,6 +507,13 @@ span + .entry-title {
 	.bio-block {
 	  float: left;
 	  margin-right: 10px;
+
+	  & > span {
+		display: none;
+		@include media($large) {
+		  display: block;
+		}
+	  }
 	}
 	h2:after {
 	  content: attr(data-company);
