@@ -14,7 +14,7 @@ comments: true
 share: true
 announce: true
 video: 
-slides: 
+slides: 44003608
 ---
 
 Lightning talk о полезных сайтах, утилитах и онлайн-сервисах, 
