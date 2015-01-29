@@ -12,8 +12,8 @@
 - title: Встречи
   url: /events/
 
-- title: Послушать
-  url: /register/
+#- title: Послушать
+#  url: /register/
 
 - title: Выступить
   url: /speakers/
