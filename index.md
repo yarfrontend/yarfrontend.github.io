@@ -26,6 +26,10 @@ comments: true
 
 Приглашаем докладчиков! Если вы хотите выступить, пожалуйста, [расскажите нам о своем докладе][speakers].
 
+Открыто голосование за доклады!
+
+Елифантьев Олег: [Генераторы или анимация?][vote-oleg]
+
 Когда
 -----
 
@@ -53,3 +57,4 @@ comments: true
 [register]: /register/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
+[vote-oleg]: /blog/generators-or-gpu/
