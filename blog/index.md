@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Блог
 excerpt: "An archive of blog posts sorted by date."
 ---
 
