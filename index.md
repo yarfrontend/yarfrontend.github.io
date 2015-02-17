@@ -30,6 +30,8 @@ comments: true
 
 Елифантьев Олег: [Генераторы или анимация?][vote-oleg]
 
+Колосов Павел: [Derby.js или ускорение загрузки сайта?][vote-pavel]
+
 Когда
 -----
 
@@ -58,3 +60,4 @@ comments: true
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
 [vote-oleg]: /blog/generators-or-gpu/
+[vote-pavel]: /blog/derby-or-loadspeed/
