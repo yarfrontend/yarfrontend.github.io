@@ -14,7 +14,7 @@ comments: true
 share: true
 announce: true
 video: 
-slides: 
+slides: 45129879
 ---
 
 Рассказ о новой функциональности, доступной в ES6: генераторах. 
