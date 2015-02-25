@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: talk
 title: "От 40 до 2х секунд. Увеличиваем скорость загрузки сайта"
 modified:
 categories: talks
