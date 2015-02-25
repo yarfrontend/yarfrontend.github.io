@@ -14,7 +14,7 @@ comments: true
 share: true
 announce: true
 video: 
-slides: 
+slides: 45129760
 ---
 
 Доклад-дискуссия.
