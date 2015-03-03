@@ -10,4 +10,7 @@ meetup2:
 
 meetup3:
   date: 2015-02-25
-  finidshed: true
+  finished: true
+
+meetup4:
+  date: 2015-03-25
