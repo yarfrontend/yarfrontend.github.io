@@ -13,6 +13,7 @@ date: 2015-02-25T19:00:00+04:00
 comments: true
 share: true
 slides: 45130008
+video: 4Cnid5TN5lM
 ---
 
 Расскажу о способах увеличения скорости, Critical render path. 
