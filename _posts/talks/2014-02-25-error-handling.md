@@ -12,7 +12,7 @@ talk: meetup3
 date: 2014-02-25T19:00:00+04:00
 comments: true
 share: true
-video: 
+video: FdE8qgkK_BE
 slides: 45129760
 ---
 
