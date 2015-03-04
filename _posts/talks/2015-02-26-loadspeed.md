@@ -8,6 +8,7 @@ excerpt:
 tags: [javascript, optimization]
 image:
   feature:
+talk: meetup3
 date: 2015-02-25T19:00:00+04:00
 comments: true
 share: true
