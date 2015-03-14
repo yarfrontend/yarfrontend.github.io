@@ -8,7 +8,7 @@ excerpt:
 tags: [javascript, es6, generators]
 image:
   feature:
-date: 2015-02-14T22:58:00+04:00
+date: 2015-02-26T12:00:00+04:00
 comments: true
 share: true
 ---
