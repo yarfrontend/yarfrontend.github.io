@@ -14,7 +14,7 @@ comments: true
 share: true
 announce: true
 video: uSXAbqCPTOM
-slides: 43DRzPcfbHzcvb
+slides: key/43DRzPcfbHzcvb
 ---
 
 * История развития.
