@@ -19,3 +19,5 @@ slides:
 
 Продолжаем и развиваем тему асинхронных операций с использованием ES6-генераторов,
  начатую на [предыдущей встрече](/talks/es6-generators/)
+
+Презентация: [http://kolyaj.name/generators-async/](http://kolyaj.name/generators-async/)
