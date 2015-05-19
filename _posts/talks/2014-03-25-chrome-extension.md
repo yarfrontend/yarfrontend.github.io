@@ -12,7 +12,7 @@ talk: meetup4
 date: 2014-03-25T19:00:00+04:00
 comments: true
 share: true
-announce: true
+announce: 
 video: uSXAbqCPTOM
 slides: key/43DRzPcfbHzcvb
 ---
