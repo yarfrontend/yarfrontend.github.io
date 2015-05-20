@@ -23,7 +23,6 @@ comments: true
   {% endif %}
 {% endfor %}
  <li>Тема в разработке&hellip;</li>
- <li>Тема в разработке&hellip;</li>
 </ul>
 
 
