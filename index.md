@@ -4,7 +4,7 @@ title: 27 мая 2015
 excerpt: 
 comments: true
 ---
-<!--
+
 Доклады
 -------
 
@@ -23,7 +23,7 @@ comments: true
   {% endif %}
 {% endfor %}
 </ul>
--->
+
 
 Когда
 -----
