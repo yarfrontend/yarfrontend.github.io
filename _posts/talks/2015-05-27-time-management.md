@@ -14,7 +14,7 @@ comments: true
 share: true
 announce: true
 video: 
-slides: 
+slides: key/oW5amOKEssTleE
 ---
 
 Когда человек только начинает работать, задач у него совсем немного и справиться с ними за день довольно легко. 
