@@ -21,3 +21,5 @@ slides:
 рендеринг DOM был еще немного (а иногда и много) быстрее.
 
 На специально испорченном примере сделаем жизнь немного лучше.
+
+Презентация: [http://olegas.github.io/talks-improve-rendering-speed/](http://olegas.github.io/talks-improve-rendering-speed/)
