@@ -5,7 +5,7 @@ modified:
 categories: talks
 author: ruslankaymakov
 excerpt:
-tags: [work]
+tags: [work, automation, code-quality]
 image:
   feature:
 talk: meetup6
