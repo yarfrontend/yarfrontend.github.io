@@ -18,4 +18,8 @@ meetup4:
 
 meetup5:
   date: 2015-05-27
-  finitshed:
+  finitshed: true
+
+meetup6:
+  date: 2015-06-26
+  finished:

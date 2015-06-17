@@ -4,7 +4,7 @@ title: 26 июня 2015
 excerpt: 
 comments: true
 ---
-<!--
+
 Доклады
 -------
 
@@ -22,8 +22,8 @@ comments: true
   <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}. {{ authorslist }}</a></li>
   {% endif %}
 {% endfor %}
+  <li>Тема уточняется&hellip;</li>
 </ul>
--->
 
 Когда
 -----

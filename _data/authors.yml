@@ -61,3 +61,17 @@ baevatm:
   avatar: baeva.jpg
   company: Тензор
   twitter: BaevaTatyana
+
+andreysolomatin:
+  name: Андрей Соломатин
+  avatar: solomatin.png
+  company: Productive Mobile
+  twitter: filipovskii
+  bio: "Разработчик веб и мобильных приложений. Любит изучать языки программирования и парадигмы. Предпочитает стартапы зрелым компаниям, простые решения - универсальным, пробелы - табуляции. Слушатель и докладчик. С 2014 года занимается организацией митапа MoscowJS. Со-ведущий подкаста RadioJS."
+
+ruslankaymakov:
+  name: Руслан Каймаков
+  avatar: kaymakov.png
+  company: Rambler&Co
+  twitter: mrmoranxp
+  bio: "Руководитель отдела разработки клиентских приложений. Фанат оптимизации и автоматизации. Одинаково любит верстку и программирование."
