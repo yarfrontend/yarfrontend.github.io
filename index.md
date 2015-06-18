@@ -22,7 +22,6 @@ comments: true
   <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}. {{ authorslist }}</a></li>
   {% endif %}
 {% endfor %}
-  <li>Тема уточняется&hellip;</li>
 </ul>
 
 Когда
