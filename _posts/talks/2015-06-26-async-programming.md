@@ -12,8 +12,8 @@ talk: meetup6
 date: 2015-06-26T19:00:00+04:00
 comments: true
 share: true
-announce: true
-video: 
+announce: 
+video: zibh84Eqitg
 slides: 
 ---
 
