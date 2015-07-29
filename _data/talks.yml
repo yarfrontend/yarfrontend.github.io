@@ -14,11 +14,11 @@ meetup3:
 
 meetup4:
   date: 2015-03-25
-  finitshed: true
+  finished: true
 
 meetup5:
   date: 2015-05-27
-  finitshed: true
+  finished: true
 
 meetup6:
   date: 2015-06-26
