@@ -19,12 +19,10 @@ comments: true
     {% endcapture %}
   {% endif %}
   {% if post.announce %}
-  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}. {{ authorslist }}</a></li>
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ authorslist }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
-
-**ВНИМАНИЕ!!** Доклад "Git &mdash; проблема или решение?" отменен.
 
 Когда
 -----
