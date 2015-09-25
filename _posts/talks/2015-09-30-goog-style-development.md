@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Прототип или разработка в стиле Гугл"
+title: "Прототип или разработка в стиле Гугл."
 modified:
 categories: talks
 author: stetsyuk

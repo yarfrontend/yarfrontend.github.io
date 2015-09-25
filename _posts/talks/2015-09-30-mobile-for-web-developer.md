@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Порог входа в Мобильный мир для веб-разработчика"
+title: "Порог входа в Мобильный мир для веб-разработчика."
 modified:
 categories: talks
 author: stetsyuk

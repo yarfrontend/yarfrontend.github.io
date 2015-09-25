@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Continuous delivery на примере одного сайта"
+title: "Continuous delivery на примере одного сайта."
 modified:
 categories: talks
 author: kolyaj
