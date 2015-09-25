@@ -12,7 +12,7 @@ talk: meetup8
 date: 2015-08-26T19:00:00+04:00
 comments: true
 share: true
-announce: true 
+announce: false 
 video: kacAxqJX5xg
 slides: 
 ---
