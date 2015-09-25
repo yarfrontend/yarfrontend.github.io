@@ -31,3 +31,7 @@ meetup7:
 meetup8:
   date: 2015-08-26
   finished: true
+
+meetup9:
+  date: 2015-09-30
+  finished:

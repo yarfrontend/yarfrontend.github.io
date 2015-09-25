@@ -44,7 +44,7 @@ yarkinsergey:
 kolyaj:
   name: Сиварев Николай
   avatar: kolyaj.png
-  company: Яндекс
+  company: razlozhi.ru
   twitter: kolyaj
   github: kolyaj
   bio: Разработчик Яндекс.Метрики
@@ -110,4 +110,10 @@ kokuykin:
   name: Евгений Кокуйкин
   company: Диасофт
   avatar: kokuykin.png
+
+stetsyuk:
+  name: Станислав Стецюк
+  company: Тензор
+  bio: Руководитель подразделения мобильной разработки
+  avatar: stetsyuk.jpg
 
