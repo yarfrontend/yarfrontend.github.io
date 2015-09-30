@@ -7,6 +7,6 @@ comments:
 
 
 <h1>Yaroslavl Frontend Meetup #<span id="num"></span></h1>
-<span id="hashtag">#yarfrontend</span>
-<span id="wifi">Foo</span>
-<span id="password">Bar</span>
+<p id="hashtag">#yarfrontend</p>
+<p id="wifi">Foo</p>
+<p id="password">Bar</p>
