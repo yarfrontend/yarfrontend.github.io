@@ -12,7 +12,7 @@ comments:
 <p>WiFi Password: <span id="password">Bar</span></p>
 
 <script>
-  var parts = window.location.hash.split(',');
+  var parts = window.location.hash.substr(1).split(',');
   document.getElementById('num').innerHTML = parts[0];
   document.getElementById('wifi').innerHTML = parts[1];
   document.getElementById('password').innerHTML = parts[2];
