@@ -457,7 +457,7 @@ table {
 .promo {
   background-image: url(/images/site-logo.svg);
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center top;
   background-size: cover;
   text-align: center
 }
@@ -469,4 +469,5 @@ table {
 .promo p {
   text-align: right;
   font-size: 2em;
+  margin-right: 2em;
 }
