@@ -117,3 +117,10 @@ stetsyuk:
   bio: Руководитель подразделения мобильной разработки
   avatar: stetsyuk.jpg
 
+filatov:
+  name: Александр Филатов
+  company: Akvelon Inc.
+  bio: Веб разработчик в компании Akvelon, vendor в Microsoft
+  avatar: filatov.png
+  twitter: greybax
+

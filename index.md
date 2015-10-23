@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 30 сентября 2015
+title: 30 октября 2015
 excerpt: 
 comments: true
 ---
@@ -27,7 +27,7 @@ comments: true
 Когда
 -----
 
-Девятая  встреча пройдет в **среду**, 30 сентября 2015 в 19:00. 
+Девятая  встреча пройдет в **пятницу**, 30 октября 2015 в 19:00. 
 
 Чтобы мы могли оценить количество участников, пожалуйста [зарегистрируйтесь][register].
 
@@ -53,7 +53,7 @@ comments: true
 </ul>
 -->
 
-[register]: /register/
+[register]: https://yarfrontend.timepad.ru/event/258256/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
 [vote-oleg]: /blog/generators-or-gpu/

@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: 30/09/2015
+- title: 30/10/2015
   url: /
 
 - title: О проекте
@@ -16,7 +16,7 @@
   url: /events/
 
 - title: Послушать
-  url: /register/
+  url: https://yarfrontend.timepad.ru/event/258256/
 
 - title: Выступить
   url: /speakers/
