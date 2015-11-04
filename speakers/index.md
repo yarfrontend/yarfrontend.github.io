@@ -49,6 +49,21 @@ Ibis предлагает более дешевое размещение (2450 �
 2617.5 руб. при заказе номера с завтраком). Отель расположен в самом центре. Это будет удобно, 
 если вы хотите прогуляться по городу до или после мероприятия.
 
+Передвижение по городу
+=======
+
+Удобно передвигаться между вышеуказаными точками можно как на такси (средняя цена поездки центр-вокзал 120-150 рублей), 
+ так и на общественном транспорте (18 руб. поездка). Для построения маршрута на общественном транспорте можно воспользоваться приложением [2gis][2gis] 
+([Android][2gis-android], [iTunes][2gis-itunes], [Windows Phone][2gis-winphone]). На сайте [yartr.ru][yartr] можно
+ узнать примерное время прибытия транспорта (кроме маршрутных такси) для любого маршрута и любой остановки. 
+
+Для вызова такси удобно воспользоваться одним из сервисов: [TapTaxi][taptaxi] 
+ ([Android][taptaxi-android], [iTunes][taptaxi-itunes], [Windows Phone][taptaxi-winphone]), 
+ [Maxim][maxim] ([Android][maxim-android], [iTunes][maxim-itunes], [Windows Phone][maxim-winphone]).
+ 
+Приложение TapTaxi позволяет видеть движение машины онлайн.
+
+
 Расскажите о своем докладе
 =======
 
@@ -83,3 +98,16 @@ Ibis предлагает более дешевое размещение (2450 �
 [ibis]: http://www.ibis.com/ru/hotel-7259-ibis-%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C-%D1%86%D0%B5%D0%BD%D1%82%D1%80/index.shtml
 [yar-wiki]: https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8F
 [yar-wiki-2]: https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8#.D0.AF.D1.80.D0.BE.D1.81.D0.BB.D0.B0.D0.B2.D0.BB.D1.8C
+[maxim]: https://taximaxim.ru/?city=%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C
+[maxim-itunes]: https://itunes.apple.com/app/maksim-zakaz-taksi/id579985456
+[maxim-winphone]: http://www.windowsphone.com/s?appid=7074bd01-25bd-4877-9f6e-08b81a334bc6
+[maxim-android]: https://play.google.com/store/apps/details?id=com.taxsee.taxsee
+[taptaxi]: http://taptaxi.ru/
+[taptaxi-itunes]: https://itunes.apple.com/us/app/taptaxi/id545247299?l=ru
+[taptaxi-winphone]: http://www.windowsphone.com/ru-ru/store/app/taptaxi/5fea5ad2-efb3-432c-a885-8debfc382529
+[taptaxi-android]: https://play.google.com/store/apps/details?id=com.taptaxi
+[2gis]: http://2gis.ru/yaroslavl
+[2gis-itunes]: https://152360.api-06.com/serve?action=click&publisher_id=152360&site_id=64206&site_id_ipad=64314&offer_id=365620&my_campaign=Russia-Download-button&language=ru
+[2gis-winphone]: https://152360.api-06.com/serve?action=click&publisher_id=152360&site_id=92168&offer_id=365622&my_campaign=Russia-Download-button&language=ru
+[2gis-android]:http://ad.apps.fm/6VZUK9PXFvDLCFtR13gWOl5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYfwkJTAbvvqmSDTu4CRsWy2XomoVXb-Z0oHWGV4a_G3XKYFktemP4midiSMxOymDBrGrJGvEnYOgWA_jer0Z5RpznvcIcpBNeRwNlg5rDky64
+[yartr]: http://yartr.ru/
