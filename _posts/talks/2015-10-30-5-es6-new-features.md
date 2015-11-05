@@ -13,8 +13,8 @@ date: 2015-10-30T19:00:00+04:00
 comments: true
 share: true
 announce: true 
-video: 
-slides: 
+video: jupC6d0sH0k
+slides: 492xaZNJ9WOgH4
 ---
 
 Общий обзор, краткий экскурс в историю развития JavaScript. 
