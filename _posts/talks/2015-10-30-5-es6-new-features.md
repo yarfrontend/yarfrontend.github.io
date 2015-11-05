@@ -14,7 +14,7 @@ comments: true
 share: true
 announce: true 
 video: jupC6d0sH0k
-slides: 492xaZNJ9WOgH4
+slides: key/492xaZNJ9WOgH4
 ---
 
 Общий обзор, краткий экскурс в историю развития JavaScript. 
