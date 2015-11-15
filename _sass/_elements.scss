@@ -454,6 +454,12 @@ table {
   -o-animation-name: drop;
   animation-name: drop;
 }
+.promo2 {
+  text-align: center;
+  height: 100%;
+  border-top: none;
+}
+
 .promo {
   background-image: url(/images/site-logo.svg);
   background-repeat: no-repeat;
@@ -464,7 +470,7 @@ table {
   border-top: none;
 }
 
-.promo h1 {
+.promo h1, .promo2 h1 {
   font-size: 4em;
   margin-bottom: 2em;
 }

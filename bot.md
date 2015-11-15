@@ -1,5 +1,5 @@
 ---
-layout: promo
+layout: promo2
 title: 30 сентября 2015
 excerpt: 
 comments: 
