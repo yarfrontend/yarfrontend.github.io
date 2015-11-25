@@ -12,7 +12,7 @@ talk: meetup10
 date: 2015-10-30T19:00:00+04:00
 comments: true
 share: true
-announce: true 
+announce: false 
 video: _2NeGzHTnlU
 slides: 
 ---
