@@ -9,7 +9,7 @@ tags: [docker]
 image:
   feature:
 talk: meetup11
-date: 2015-12-05T19:00:00+04:00
+date: 2015-12-04T19:00:00+04:00
 comments: true
 share: true
 announce: true 
