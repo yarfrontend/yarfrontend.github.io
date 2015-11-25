@@ -3,7 +3,7 @@ layout: talk
 title: "Загрузка страницы: Куда уходит время?"
 modified:
 categories: talks
-author: baevatm
+author: [baevatm, dokuchaev]
 excerpt:
 tags: [optimization]
 image:
