@@ -29,7 +29,7 @@ comments: true
 
 Одиннадцатая встреча пройдет в **пятницу**, 4 декабря 2015 в 19:00. 
 
-<!--Чтобы мы могли оценить количество участников, пожалуйста [зарегистрируйтесь][register].-->
+Чтобы мы могли оценить количество участников, пожалуйста [зарегистрируйтесь][register].
 
 Где
 ---
@@ -53,7 +53,7 @@ comments: true
 </ul>
 -->
 
-[register]: https://yarfrontend.timepad.ru/event/258256/
+[register]: https://yarfrontend.timepad.ru/event/270594/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
 [vote-oleg]: /blog/generators-or-gpu/
