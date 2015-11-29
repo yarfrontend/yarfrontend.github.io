@@ -19,4 +19,9 @@ comments: true
 так и на темы связанные с общей профессиональной деятельностью участников.
 Доклады на 20-30 минут. Участие &mdash; бесплатное.
 
+Если вас интересует информация о новых встречах и прочие новости о мероприятии &mdash; 
+[подпишитесь][newslist] на Email-рассылку. 
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/qdtv0nMjy2w" frameborder="0" allowfullscreen></iframe>
+
+[newslist]:http://bit.ly/yfm-subscribe
