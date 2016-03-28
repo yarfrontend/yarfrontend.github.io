@@ -53,7 +53,7 @@ comments: true
 </ul>
 -->
 
-[register]: https://yarfrontend.timepad.ru/event/270594/
+[register]: https://yarfrontend.timepad.ru/event/311687/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
 [vote-oleg]: /blog/generators-or-gpu/
