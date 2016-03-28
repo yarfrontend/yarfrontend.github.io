@@ -42,4 +42,8 @@ meetup10:
 
 meetup10:
   date: 2015-12-04
+  finished: true
+
+meetup12:
+  date: 2016-04-01
   finished:
